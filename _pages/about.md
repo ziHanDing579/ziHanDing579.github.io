@@ -7,4 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-My name is Zi Han Ding and I am a MS CS student from the University of Pittsburgh. My primary interests are in applied security research, particular in the fields of AI. I am fairly interested in most things security and would love for anyone to reach out whether it is on 
+My name is Zi Han Ding and I am a MS CS student from the University of Pittsburgh. My primary interests are in applied security research, right now, I am specifically interested in LLM and their related impacts in security. In the current, rapidly evolving, applications of LLM in pretty much every field possible, security is playing catch-up. The trade-offs are being ignored 
