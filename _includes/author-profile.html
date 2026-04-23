@@ -20,9 +20,9 @@
     {% if author.bio %}<p class="author__bio">{{ author.bio }}</p>{% endif %}
   </div>
 
-  <div class="author__urls-wrapper" style="display: block !important; width: 100%;">
+  <div class="author__urls-wrapper">
     <button class="btn btn--inverse">Follow</button>
-    <ul class="author__urls social-icons" style="position: relative !important; display: block !important; border: none !important; background: transparent !important; box-shadow: none !important; margin-top: 15px !important; padding: 0 !important; margin-left: -15px !important; width: 100% !important; box-sizing: border-box !important;">
+    <ul class="author__urls social-icons" style="position: relative !important; display: block !important; border: none !important; background: transparent !important; box-shadow: none !important; margin-top: 15px !important; width: 100% !important; box-sizing: border-box !important;">
       <!-- Font Awesome icons / Biographic information  -->
       {% if author.location %}
         <li class="author__desktop"><i class="fas fa-fw fa-location-dot icon-pad-right" aria-hidden="true"></i>{{ author.location }}</li>

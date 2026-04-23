@@ -322,20 +322,3 @@
     }
   }
 }
-
-/* ==========================================================================
-   FIX FOR OVERLAPPING AUTHOR URLS BOX
-   ========================================================================== */
-.author__urls {
-  position: relative !important;
-  border: none !important;
-  background: transparent !important;
-  box-shadow: none !important;
-  margin-top: 15px !important;
-}
-
-/* Hide the little mobile popup arrow triangles */
-.author__urls:before, 
-.author__urls:after {
-  display: none !important;
-}
