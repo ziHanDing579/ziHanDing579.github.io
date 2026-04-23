@@ -11,26 +11,21 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.S. in Computer Science, University of Pittsburgh, 2026(Expected)
+* B.S. in Computer Science and Computational Biology, University of Pittsburgh, 2024
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2025: DevOps Intern @ Ansys
+  * Azure DevOps pipeline maintenance and updates
+    * Removing redundant stages in main pipeline
+    * Building a pipeline template for all Conan and Poetry packages
+      * Building, testing, deployment
+      * Generating SBOMs
+  * Created and maintained Conan packages
+    * A Python environment package for both Windows and Linux environments
+    * Updated old Conan package to newer Conan standards
+  * Updated Poetry packages
   
 Skills
 ======
@@ -59,6 +54,3 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
