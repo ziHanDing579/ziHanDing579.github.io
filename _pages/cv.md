@@ -27,6 +27,12 @@ Work experience
     * Updated old Conan package to newer Conan standards
   * Updated Poetry packages
   
+* Fall 2024: Graduate Research Assistant @ University of Pittsburgh
+  * Maintained OCCAM, a container orchestration platform for reproducing academic artifacts
+    * Implemented feature to export entire workflow of containers to local directory
+    * Created a hyperparameter optimization workflow for demonstration purposes
+    * General debugging over a very large, legacy codebase
+  
 Skills
 ======
 * Skill 1
