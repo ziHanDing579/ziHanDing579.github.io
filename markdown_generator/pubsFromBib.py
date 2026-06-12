@@ -26,10 +26,10 @@ import re
 
 #todo: incorporate different collection types rather than a catch all publications, requires other changes to template
 publist = {
-    "proceeding": {
-        "file" : r"D:\ziHanDing579.github.io\files\bibtex1.bib",
-        "venuekey": "booktitle",
-        "venue-pretext": "In the proceedings of ",
+    "thesis": {
+        "file" : r"D:\ziHanDing579.github.io\files\bibtex2.bib",
+        "venuekey": "school",
+        "venue-pretext": "Thesis at ",
         "collection" : {"name":"publications",
                         "permalink":"/publication/"}
         
