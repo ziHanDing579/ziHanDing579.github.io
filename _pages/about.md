@@ -15,4 +15,4 @@ From a technical perspective, this is challenging. The LLM is a supersized black
 
 From a security perspective, one might suggest to simply put stricter controls until the time is right. Unfortunately, we are past that point now. There is no way to un-unleash the beast that is LLMs. People will find ways to get around the strict controls outside of our jurisdiction, with data that is meant to be secured.
 
-Anyways, apart from this rather grim outlook on LLMs and applied security, my name is Zi Han Ding and welcome to my site.
+Anyways, apart from this rather grim outlook on LLMs and applied security, this is Zi Han Ding and welcome to my personal website.
