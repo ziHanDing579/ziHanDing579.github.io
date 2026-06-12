@@ -1,6 +1,7 @@
 ---
 title: "An Embedding-Space Perspective Towards a Defense-in-Depth Mechanism for Prompt-to-SQL Attack (Prompt2SQLa)"
 collection: publications
+category: thesis
 permalink: /publication/2026-04-29-An-Embedding-Space-Perspective-Towards-a-Defense-in-Depth-Mechanism-for-Prompt-to-SQL-Attack-Prompt2SQLa
 date: 2026-04-29
 venue: 'Thesis at University of Pittsburgh'
