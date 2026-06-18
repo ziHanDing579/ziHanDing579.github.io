@@ -21,3 +21,5 @@ But the ends isn't really the point for me in this project. It was the journey. 
 Once the two challenges have been overcame, the rest was fairly simple. If I were to do this again, I would say potentially use an automated framework like how hyperparameter optimization works for ML to find the correct values as opposed to my trial and error method. The other thing would be to focus on handshake design early as oppose to making quite a mess of it in the later stages of the project.
 
 Very fun project, would do it again.
+
+Link to the repo: https://github.com/ziHanDing579/Hoplite
