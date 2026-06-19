@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* M.S. in Computer Science, University of Pittsburgh, 2026(Expected)
+* M.S. in Computer Science, University of Pittsburgh, 2026
 * B.S. in Computer Science and Computational Biology, University of Pittsburgh, 2024
 
 Work experience
