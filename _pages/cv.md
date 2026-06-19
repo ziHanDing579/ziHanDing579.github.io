@@ -35,12 +35,28 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Artificial Intelligence
+  * Prompt Engineering
+  * Model Fine-tuning
+  * Model Training
+* Machine Learning
+  * PyTorch
+  * Pandas
+  * NumPy
+  * Cuda
+* Cybersecurity
+  * Security Research
+* Software Engineering
+  * Flask
+  * Springboot
+  * SQL
+  * ORM
+* DevOps
+  * Azure DevOps
+  * GCP
+  * Github Actions
+  * Docker
+  * Kubernetes
 
 Publications
 ======
