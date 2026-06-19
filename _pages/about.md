@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Zi Han Ding and I am a MS CS student from the University of Pittsburgh. My primary interests are in applied security research, right now, I am particularly interested in Large Language Models (LLMs) and their related impacts in security. 
+My name is Zi Han Ding and I am a MS CS graduate from the University of Pittsburgh. My primary interests are in applied security research, right now, I am particularly interested in Large Language Models (LLMs) and their related impacts in security. 
 
 In the rapidly evolving landscape of LLM applications in almost every imaginable field from academia to industry, security is being ignored. Part of the reason is that security for LLM is a difficult problem to tackle. We cannot simply restrict LLM's access to data. An LLM with limited access will have limited utility. We also cannot give it complete control over our information. An LLM with complete access is just inviting any attackers of any level to have a go at exfiltrating your private and often personal data. Applied security scientists and engineers must now tackle this the hard way. Understanding what the underlying architecture of the LLM is and how to prevent specific information from leaking.
 
