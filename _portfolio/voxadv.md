@@ -4,7 +4,7 @@ excerpt: "A Voxel-Based Adversarial Semantic Attack Synthetic Data Generation Pi
 collection: portfolio
 ---
 
-You can find the github link here: https://github.com/Wafik20/voxel-based-adversarial-attacks/tree/main
+You can find the github link here: https://github.com/ziHanDing579/voxelAdv
 
 This is a computer vision class project that I thought was rather well done. At least for a first attempt at security intersect computer vision.
 
