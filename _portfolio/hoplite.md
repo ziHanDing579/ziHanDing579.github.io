@@ -22,4 +22,6 @@ Once the two challenges have been overcame, the rest was fairly simple. If I wer
 
 Very fun project, would do it again.
 
-Link to the repo: https://github.com/ziHanDing579/Hoplite
+Link to the repo:
+
+https://github.com/ziHanDing579/Hoplite
