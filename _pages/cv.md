@@ -21,7 +21,9 @@ Work experience
     * Removing redundant stages in main pipeline
     * Building a pipeline template for all Conan and Poetry packages
       * Building, testing, deployment
+      * Control flow depending on PR type
       * Generating SBOMs
+      * Automated linting
   * Created and maintained Conan packages
     * A Python linked library package for both Windows and Linux environments
     * Updated old Conan package to newer Conan standards
