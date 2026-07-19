@@ -23,7 +23,7 @@ Work experience
       * Building, testing, deployment
       * Generating SBOMs
   * Created and maintained Conan packages
-    * A Python environment package for both Windows and Linux environments
+    * A Python linked library package for both Windows and Linux environments
     * Updated old Conan package to newer Conan standards
   * Updated Poetry packages
   
