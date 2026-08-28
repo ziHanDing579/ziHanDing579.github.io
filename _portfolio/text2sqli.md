@@ -3,9 +3,9 @@ title: "DaMiTSQL + MS Thesis Experiments"
 excerpt: "Experiments for the DaMiTSQL Paper and the MS Thesis"
 collection: portfolio
 ---
-
+<br>
 You can find the link to this project here: 
-
+<br>
 https://github.com/ziHanDing579/Text2SQLi
 
 Since the publication of my DaMiT-SQL paper, I've worked on the code to create new models for my master's thesis. However, as not all of my experiments were successful and discussed in my thesis, I felt that an additional portfolio item is needed.

@@ -3,9 +3,9 @@ title: "VoxelAdv: Adversarial Semantic Attack Synthesis for 3D Data"
 excerpt: "A Voxel-Based Adversarial Semantic Attack Synthetic Data Generation Pipeline"
 collection: portfolio
 ---
-
+<br>
 You can find the github link here: 
-
+<br>
 https://github.com/ziHanDing579/voxelAdv
 
 This is a computer vision class project that I thought was rather well done. At least for a first attempt at security intersect computer vision.
