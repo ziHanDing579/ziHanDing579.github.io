@@ -54,8 +54,9 @@ Skills
   * Springboot
   * SQL
   * ORM
+  * Bash
 * DevOps
-  * Azure DevOps
+  * Azure DevOps (Pipelines)
   * GCP (Firebase and related IAM)
   * AWS (Lambda, ECR, SSM and related IAM)
   * Terraform
@@ -63,6 +64,7 @@ Skills
   * Docker
   * Kubernetes
   * Grafana
+  * Artifactory
 
 Publications
 ======
