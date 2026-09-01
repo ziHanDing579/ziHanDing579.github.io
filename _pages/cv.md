@@ -39,6 +39,7 @@ Skills
 ======
 * Artificial Intelligence
   * Prompt Engineering
+  * RAG
   * Model Fine-tuning
   * Model Training
 * Machine Learning
@@ -55,7 +56,9 @@ Skills
   * ORM
 * DevOps
   * Azure DevOps
-  * GCP
+  * GCP (Firebase and related IAM)
+  * AWS (Lambda, ECR, SSM and related IAM)
+  * Terraform
   * Github Actions
   * Docker
   * Kubernetes
