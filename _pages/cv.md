@@ -62,6 +62,7 @@ Skills
   * Github Actions
   * Docker
   * Kubernetes
+  * Grafana
 
 Publications
 ======
