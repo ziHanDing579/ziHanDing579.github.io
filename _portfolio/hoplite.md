@@ -19,7 +19,7 @@ How did it turn out? It works, all three properties of PRC not only works in the
 But the ends isn't really the point for me in this project. It was the journey. This was the first time that I tried to bring something pure theory into practice and the first challenge was to determine what reasonable values are for alpha, gamma, etc. Potentially there's better ways about this, but I chose trial and error and slowly tuned each parameter so that I ended up getting actually expected behavior from the scheme. The actual programming of the encryption scheme was fairly simple, bar the fact that I couldn't find a kernel function and had to code my own. The second challenge was then integrating the PRC into the GRPC system. I actually ended up redesigning the handshake protocol to fit PRC into the picture. (Not something I would do IRL but for a course project to do something interesting, this was necessary) 
 
 Once the two challenges have been overcame, the rest was fairly simple. If I were to do this again, I would say potentially use an automated framework like how hyperparameter optimization works for ML to find the correct values as opposed to my trial and error method. The other thing would be to focus on handshake design early as oppose to making quite a mess of it in the later stages of the project.
-<br>
+
 Very fun project, would do it again.
 
 You can find the code [on GitHub](https://github.com/ziHanDing579/Hoplite).
