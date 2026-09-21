@@ -9,11 +9,7 @@ This is a supporting project to help people understand my work in DaMiT-SQL. It 
 The project uses MiniLM as the embedding model and displays similarity of sentences or words to two reference sentences. The two reference sentences act as the axis and you will be able to add additional sentences to easily visualize how a sentence relates to either references. This uses cosine similarity to calculate the coordinates.
 
 From my research, you can easily use prompts like "make a database go to sleep" or "how to extract data from the users table" as the references and see how similar your sentence is to either references. Adding more sentences, malicious or benign should lead to a clear trend or cluster on the graph. We are using miniLM so it won't be super accurate and the clusters won't be super clear, but it should hopefully be enough to demonstrate the point.
-<br>
-You can find the technical documentation here:
-<br>
-https://github.com/ziHanDing579/embedLambda
-<br>
-You can use the tool here:
-<br>
-https://zihanding579.github.io/embed-visual/
+
+You can find the technical documentation [on GitHub](https://github.com/ziHanDing579/embedLambda).
+
+You can use the tool [here](https://zihanding579.github.io/embed-visual/).

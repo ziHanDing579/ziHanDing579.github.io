@@ -3,10 +3,8 @@ title: "VoxelAdv: Adversarial Semantic Attack Synthesis for 3D Data"
 excerpt: "A Voxel-Based Adversarial Semantic Attack Synthetic Data Generation Pipeline"
 collection: portfolio
 ---
-<br>
-You can find the github link here: 
-<br>
-https://github.com/ziHanDing579/voxelAdv
+
+You can find this project [on GitHub](https://github.com/ziHanDing579/voxelAdv).
 
 This is a computer vision class project that I thought was rather well done. At least for a first attempt at security intersect computer vision.
 
@@ -22,4 +20,4 @@ As with all things in academia, when actually trying to get the pipeline setup, 
 
 Now a voxelized world is certainly not a complete real world parallel but me and my teammate found something very interesting here. Even a light modification to the scene with some blur can cause a significant drop in scene recognition even with newer models like Gemma 4 or Qwen 3 by 20% or so. With our optuna adversarial setting generation, we managed to reduce the accuracy of both models to well below the random baseline.
 
-You can find more details at our paper on: https://github.com/Wafik20/voxel-based-adversarial-attacks/blob/main/paper/voxel_based_adversarial_attacks.pdf 
+You can find more details in [our paper](https://github.com/Wafik20/voxel-based-adversarial-attacks/blob/main/paper/voxel_based_adversarial_attacks.pdf).
